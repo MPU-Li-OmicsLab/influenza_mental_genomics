@@ -1,0 +1,9 @@
+Source data for Fig.6c: UK Biobank Olink subset: odds ratios (95% CI) for incident influenza (J09-J12 first-reported composite) per +1 SD plasma ST6GAL1 NPX across the pre-specified specification tree, with P values, participant and event counts
+Model	Estimate_type	Estimate	CI_low	CI_high	P	N_total	N_events
+P  Primary: J09-J12 composite, -CRP, +season	OR	1.121	1.0506	1.1962	5.60332e-04	51644	932
+A2  Primary + CRP	OR	1.08	1.005	1.1605	3.61322e-02	48992	870
+A1  J09-J12 composite, +CRP (no season)	OR	1.0798	1.0049	1.1604	3.63636e-02	48992	870
+R0  Original main replication: J09-J11, +CRP	OR	1.0686	0.9708	1.1762	1.75585e-01	48992	491
+A4  Primary, flu-season blood draws only	OR	1.1283	1.0273	1.2392	1.16731e-02	23974	436
+A5  Primary, events >730 d post-draw only	OR	1.1317	1.0547	1.2144	5.79730e-04	51486	774
+A6  A5 + CRP	OR	1.084	1.0021	1.1726	4.42842e-02	48844	722

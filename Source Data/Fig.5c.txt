@@ -1,0 +1,56 @@
+Source data for Fig.5c: Chromatin state annotation of the SuSiE shared credible-set SNP and J10 lead SNP across brain tissues (Roadmap 15-state model)
+snp_id	rsid	chr	pos	gwas	ccre_class	tissue	state_raw	state_label	snp_label
+3:186933001:A:G		3	186933001	SuSiE_shared_CS	dELS	Brain
+Angular
+Gyrus	Active TSS	Active TSS	SuSiE shared CS
+rs10937275
+3:186977520:A:C	rs55958900	3	186977520	J10_INFLUENZA_ST6GAL1	dELS	Brain
+Angular
+Gyrus	Active TSS	Active TSS	J10 lead SNP
+rs55958900
+3:186933001:A:G		3	186933001	SuSiE_shared_CS	dELS	Brain
+Angular
+Gyrus (v1)	Weak transcription	Weak transcription	SuSiE shared CS
+rs10937275
+3:186977520:A:C	rs55958900	3	186977520	J10_INFLUENZA_ST6GAL1	dELS	Brain
+Angular
+Gyrus (v1)	Weak transcription	Weak transcription	J10 lead SNP
+rs55958900
+3:186933001:A:G		3	186933001	SuSiE_shared_CS	dELS	Brain
+Anterior
+Caudate	Active TSS	Active TSS	SuSiE shared CS
+rs10937275
+3:186977520:A:C	rs55958900	3	186977520	J10_INFLUENZA_ST6GAL1	dELS	Brain
+Anterior
+Caudate	Flanking TSS	Flanking TSS	J10 lead SNP
+rs55958900
+3:186933001:A:G		3	186933001	SuSiE_shared_CS	dELS	Brain
+Cingulate
+Gyrus	Active TSS	Active TSS	SuSiE shared CS
+rs10937275
+3:186977520:A:C	rs55958900	3	186977520	J10_INFLUENZA_ST6GAL1	dELS	Brain
+Cingulate
+Gyrus	Quiescent	Quiescent	J10 lead SNP
+rs55958900
+3:186933001:A:G		3	186933001	SuSiE_shared_CS	dELS	Brain
+Cortex	Flanking TSS	Flanking TSS	SuSiE shared CS
+rs10937275
+3:186977520:A:C	rs55958900	3	186977520	J10_INFLUENZA_ST6GAL1	dELS	Brain
+Cortex	Enhancer	Enhancer	J10 lead SNP
+rs55958900
+3:186933001:A:G		3	186933001	SuSiE_shared_CS	dELS	Brain
+Hippocampus
+Middle	Active TSS	Active TSS	SuSiE shared CS
+rs10937275
+3:186977520:A:C	rs55958900	3	186977520	J10_INFLUENZA_ST6GAL1	dELS	Brain
+Hippocampus
+Middle	Weak transcription	Weak transcription	J10 lead SNP
+rs55958900
+3:186933001:A:G		3	186933001	SuSiE_shared_CS	dELS	Brain
+Substantia
+Nigra	Active TSS	Active TSS	SuSiE shared CS
+rs10937275
+3:186977520:A:C	rs55958900	3	186977520	J10_INFLUENZA_ST6GAL1	dELS	Brain
+Substantia
+Nigra	Weak transcription	Weak transcription	J10 lead SNP
+rs55958900

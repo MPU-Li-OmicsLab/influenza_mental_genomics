@@ -1,0 +1,8 @@
+Source data for Fig.6b: UK Biobank: odds ratios (logistic) and hazard ratio (Cox PH) for incident influenza by smoking status or pack-years, with 95% CIs, P values, participant and event counts
+Model	Estimate_type	Estimate	CI_low	CI_high	P	N_total	N_events
+Main: current vs never (logit)	OR	1.5792	1.4478	1.7224	6.12135e-25	319225	3027
+3-level: previous vs never	OR	1.1117	1.042	1.1861	1.34866e-03	488618	4659
+3-level: current vs never	OR	1.578	1.4472	1.7206	5.16756e-25	488618	4659
+Per 10 pack-years (ever smokers)	OR	1.1093	1.0853	1.1338	1.33274e-20	147475	1663
+Cox PH: current vs never	HR	1.6137	1.4804	1.7592	1.57294e-27	319225	3027
+Main + log2(CRP)	OR	1.5493	1.415	1.6963	2.94959e-21	298016	2824

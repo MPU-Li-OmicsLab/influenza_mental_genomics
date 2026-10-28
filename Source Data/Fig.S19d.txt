@@ -1,0 +1,5 @@
+Source data for Fig.S19d: UK Biobank: crude influenza rate (%) by smoking status, with participant and event counts
+Smoking_status	Crude_rate_pct	N_total	N_events
+Never	0.88	269021	2374
+Previous	0.97	170174	1655
+Current	1.33	52049	693

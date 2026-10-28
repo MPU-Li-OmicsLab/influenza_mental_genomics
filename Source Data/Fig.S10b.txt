@@ -1,0 +1,24 @@
+Source data for Fig.S10b: Standardized bifactor loadings (M2d) of 11 observed traits on the general (G) and influenza-specific (F_Is) latent factors, with standard errors and P values
+rhs	factor	est	se	p	trait_label	star	cell_txt
+GPhelp	G	0.8132	0.0237	4.78e-259	GP help	 ***	0.813 ***
+HealthCost	G	0.7394	0.0174		Health cost		0.739
+NumIll	G	0.6907	0.0161		Number of illnesses		0.691
+PTSD	G	0.8989	0.0244	1.07e-297	PTSD	 ***	0.899 ***
+ANX	G	0.8435	0.0185		Anxiety		0.844
+MDD	G	0.8871	0.0335	1.2e-154	Major depression	 ***	0.887 ***
+SLP	G	0.5802	0.0311	1.31e-77	Sleep disorder	 ***	0.580 ***
+PNE	G	0.6379	0.0323	1.36e-86	Pneumonia	 ***	0.638 ***
+URTI	G	0.3152	0.0222	1.08e-45	Upper respiratory infection	 ***	0.315 ***
+COVID	G	0.2794	0.0391	8.46e-13	COVID-19	 ***	0.279 ***
+COVSUS	G	0.1429	0.0406	0.000431	COVID-19 susceptibility	 ***	0.143 ***
+GPhelp	F_Is				GP help		
+HealthCost	F_Is				Health cost		
+NumIll	F_Is				Number of illnesses		
+PTSD	F_Is				PTSD		
+ANX	F_Is				Anxiety		
+MDD	F_Is				Major depression		
+SLP	F_Is				Sleep disorder		
+PNE	F_Is	0.3739	0.1094	0.000636	Pneumonia	 ***	0.374 ***
+URTI	F_Is	-0.0509	0.0626	0.416	Upper respiratory infection		-0.051
+COVID	F_Is	1.0057	0.1811	2.81e-08	COVID-19	 ***	1.006 ***
+COVSUS	F_Is	0.7861	0.1502	1.65e-07	COVID-19 susceptibility	 ***	0.786 ***

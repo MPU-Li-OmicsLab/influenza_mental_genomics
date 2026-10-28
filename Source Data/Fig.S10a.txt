@@ -1,0 +1,6 @@
+Source data for Fig.S10a: GenomicSEM model comparison: standardized loadings (estimate, SE, 95% CI and P value) of influenza GWAS on the health (F_H), infection (F_I), general (G) and influenza-specific (F_Is) latent factors in models M2c and M2d
+outcome	rhs	est	se	p	model	lo	hi	model_factor	label	beta_txt	p_txt	stats_txt	row_order	ypos
+Flu	F_H	-1.6593	1.7758	0.35	M2c	-5.139868	1.821268	M2c: F_H	M2c: F<sub>H</sub>	-1.659 (1.776)	= 0.3500	-1.659 (1.776)<br><i>P</i> = 0.3500	M2c: F_H	1
+Flu	F_I	2.4918	1.8002	0.166	M2c	-1.036592	6.020192	M2c: F_I	M2c: F<sub>I</sub>	+2.492 (1.800)	= 0.1660	+2.492 (1.800)<br><i>P</i> = 0.1660	M2c: F_I	2
+Flu	G	0.531	0.0375	1.51e-45	M2d	0.4575	0.6045	M2d: G	M2d: G	+0.531 (0.037)	= 1.510 × 10<sup>-45</sup>	+0.531 (0.037)<br><i>P</i> = 1.510 × 10<sup>-45</sup>	M2d: G	3
+Flu	F_Is	0.431	0.1203	0.00034	M2d	0.195212	0.666788	M2d: F_Is	M2d: F<sub>Is</sub>	+0.431 (0.120)	= 3.400 × 10<sup>-4</sup>	+0.431 (0.120)<br><i>P</i> = 3.400 × 10<sup>-4</sup>	M2d: F_Is	4

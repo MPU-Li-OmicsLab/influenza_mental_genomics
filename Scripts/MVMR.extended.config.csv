@@ -1,0 +1,19 @@
+model_name,panel,outcome_id,exposure_ids,covariate_ids,p_thresh,clump_kb,clump_r2,note
+Tobacco_covid_hosp,Primary,GCST011081,GCST90691929,GCST009004;GCST90566697,1.00E-05,10000,0.001,Tobacco on COVID-19 hospitalized
+Tobacco_covid_critical,Primary,GCST90013414,GCST90691929,GCST009004;GCST90566697,1.00E-05,10000,0.001,Tobacco on COVID-19 critical
+Tobacco_pneumonia_large,Primary,GCST90624053,GCST90691929,GCST009004;GCST90566697,1.00E-05,10000,0.001,Tobacco on large pneumonia GWAS
+Tobacco_pneumonia_hosp,Primary,GCST90270869,GCST90691929,GCST009004;GCST90566697,1.00E-05,10000,0.001,Tobacco on pneumonia hospitalized
+Tobacco_any_infection_hosp,Primary,GCST90270866,GCST90691929,GCST009004;GCST90566697,1.00E-05,10000,0.001,Tobacco on any infection hospitalized
+Tobacco_influenza_pneumonia_J09J18,Primary,GCST90473653,GCST90691929,GCST009004;GCST90566697,1.00E-05,10000,0.001,Tobacco on influenza and pneumonia J09-J18
+Tobacco_flu_Rep_extended,Replication,GCST90432107,GCST90693050,GCST009004;GCST90566697,1.00E-05,10000,0.001,Tobacco replication extended
+Alcohol_flu,Primary,J10_INFLUENZA,GCST90435890,GCST009004;GCST90566697,1.00E-05,10000,0.001,Alcohol on influenza
+Alcohol_covid_hosp,Primary,GCST011081,GCST90435890,GCST009004;GCST90566697,1.00E-05,10000,0.001,Alcohol on COVID-19 hospitalized
+Alcohol_covid_critical,Primary,GCST90013414,GCST90435890,GCST009004;GCST90566697,1.00E-05,10000,0.001,Alcohol on COVID-19 critical
+Alcohol_pneumonia_large,Primary,GCST90624053,GCST90435890,GCST009004;GCST90566697,1.00E-05,10000,0.001,Alcohol on large pneumonia GWAS
+Alcohol_any_infection_hosp,Primary,GCST90270866,GCST90435890,GCST009004;GCST90566697,1.00E-05,10000,0.001,Alcohol on any infection hospitalized
+Opiate_flu,Primary,J10_INFLUENZA,GCST90018994,GCST009004;GCST90566697,1.00E-05,10000,0.001,Opiate on influenza
+Opiate_covid_hosp,Primary,GCST011081,GCST90018994,GCST009004;GCST90566697,1.00E-05,10000,0.001,Opiate on COVID-19 hospitalized
+Opiate_covid_critical,Primary,GCST90013414,GCST90018994,GCST009004;GCST90566697,1.00E-05,10000,0.001,Opiate on COVID-19 critical
+Opiate_pneumonia_large,Primary,GCST90624053,GCST90018994,GCST009004;GCST90566697,1.00E-05,10000,0.001,Opiate on large pneumonia GWAS
+Opiate_any_infection_hosp,Primary,GCST90270866,GCST90018994,GCST009004;GCST90566697,1.00E-05,10000,0.001,Opiate on any infection hospitalized
+MultiSUD_flu,Primary,J10_INFLUENZA,GCST90691929;GCST90435890;GCST90018994,GCST009004;GCST90566697,1.00E-05,10000,0.001,Multiple SUD on influenza

@@ -1,0 +1,6 @@
+Source data for Fig.6d: UK Biobank Olink subset: odds ratios (95% CI) for incident influenza (J09-J12 first-reported composite) by quintile of plasma ST6GAL1 NPX (Q2-Q5 vs Q1, primary model) with P for trend, participant and event counts
+Quintile	Estimate_type	Estimate	CI_low	CI_high	P	N_total	N_events	P_trend
+Q2 (n=10,430)	OR	1.0949	0.8717	1.3753	4.35671e-01	10430	160	6.4689e-04
+Q3 (n=10,429)	OR	1.2387	0.9935	1.5445	5.71261e-02	10429	188	6.4689e-04
+Q4 (n=10,430)	OR	1.3049	1.05	1.6217	1.63941e-02	10430	214	6.4689e-04
+Q5 (n=10,428)	OR	1.4082	1.1368	1.7445	1.72591e-03	10428	251	6.4689e-04

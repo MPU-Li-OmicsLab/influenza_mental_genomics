@@ -1,0 +1,25 @@
+model_name,panel,outcome_id,exposure_ids,covariate_ids,p_thresh,clump_kb,clump_r2,note
+GSCAN_SmokingInitiation_flu,Primary,J10_INFLUENZA,ieu-b-4877,,5.00E-08,10000,0.001,Smoking initiation unadjusted
+GSCAN_SmokingInitiation_flu_adjBMI,Primary,J10_INFLUENZA,ieu-b-4877,GCST009004,5.00E-08,10000,0.001,#NAME?
+GSCAN_SmokingInitiation_flu_adjEdu,Primary,J10_INFLUENZA,ieu-b-4877,GCST90566697,5.00E-08,10000,0.001,#NAME?
+GSCAN_SmokingInitiation_flupneu,Primary,J10_INFLUPNEU,ieu-b-4877,,5.00E-08,10000,0.001,
+GSCAN_SmokingInitiation_flupneu_adjBMI,Primary,J10_INFLUPNEU,ieu-b-4877,GCST009004,5.00E-08,10000,0.001,
+GSCAN_SmokingInitiation_flupneu_adjEdu,Primary,J10_INFLUPNEU,ieu-b-4877,GCST90566697,5.00E-08,10000,0.001,
+GSCAN_SmokingInitiation_pneumonia,Primary,J10_PNEUMONIA,ieu-b-4877,,5.00E-08,10000,0.001,Pneumonia outcome (J10_INFLUPNEU surrogate)
+GSCAN_SmokingInitiation_pneumonia_adjBMI,Primary,J10_PNEUMONIA,ieu-b-4877,GCST009004,5.00E-08,10000,0.001,Pneumonia outcome + BMI
+GSCAN_SmokingInitiation_pneumonia_adjEdu,Primary,J10_PNEUMONIA,ieu-b-4877,GCST90566697,5.00E-08,10000,0.001,Pneumonia outcome + Education
+GSCAN_SmokingInitiation_covid,Primary,COVID19_HGI_B2,ieu-b-4877,,5.00E-08,10000,0.001,
+GSCAN_SmokingInitiation_covid_adjBMI,Primary,COVID19_HGI_B2,ieu-b-4877,GCST009004,5.00E-08,10000,0.001,
+GSCAN_SmokingInitiation_covid_adjEdu,Primary,COVID19_HGI_B2,ieu-b-4877,GCST90566697,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_flu,Primary,J10_INFLUENZA,ieu-b-25,,5.00E-08,10000,0.001,Cigarettes per day unadjusted
+GSCAN_CigarettesPerDay_flu_adjBMI,Primary,J10_INFLUENZA,ieu-b-25,GCST009004,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_flu_adjEdu,Primary,J10_INFLUENZA,ieu-b-25,GCST90566697,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_flupneu,Primary,J10_INFLUPNEU,ieu-b-25,,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_flupneu_adjBMI,Primary,J10_INFLUPNEU,ieu-b-25,GCST009004,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_flupneu_adjEdu,Primary,J10_INFLUPNEU,ieu-b-25,GCST90566697,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_pneumonia,Primary,J10_PNEUMONIA,ieu-b-25,,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_pneumonia_adjBMI,Primary,J10_PNEUMONIA,ieu-b-25,GCST009004,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_pneumonia_adjEdu,Primary,J10_PNEUMONIA,ieu-b-25,GCST90566697,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_covid,Primary,COVID19_HGI_B2,ieu-b-25,,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_covid_adjBMI,Primary,COVID19_HGI_B2,ieu-b-25,GCST009004,5.00E-08,10000,0.001,
+GSCAN_CigarettesPerDay_covid_adjEdu,Primary,COVID19_HGI_B2,ieu-b-25,GCST90566697,5.00E-08,10000,0.001,

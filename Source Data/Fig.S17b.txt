@@ -1,0 +1,8 @@
+Source data for Fig.S17b: Conditional F-statistics of MVMR exposures (tobacco use disorder, BMI, educational attainment) in primary and replication panels
+exposure	conditional_F	panel	model	exposure_label	type	f_txt
+beta.Tobacco.use.disorder	21.6954192192173	Primary	Tobacco_simple	Tobacco use disorder	Main exposure	21.7
+beta.Body.mass.index	8.39454505182635	Primary	Tobacco_simple	BMI	Covariate	8.4
+beta.Educational.attainment	7.61507683707734	Primary	Tobacco_simple	Educational attainment	Covariate	7.6
+beta.Tobacco.use.disorder	21.3669199817891	Replication	Tobacco_simple_Rep	Tobacco use disorder	Main exposure	21.4
+beta.Body.mass.index	9.27595548589341	Replication	Tobacco_simple_Rep	BMI	Covariate	9.3
+beta.Educational.attainment	8.60308830555857	Replication	Tobacco_simple_Rep	Educational attainment	Covariate	8.6

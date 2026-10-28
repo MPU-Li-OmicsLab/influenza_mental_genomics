@@ -1,0 +1,15 @@
+Source data for Fig.3B: GenomicSEM bifactor model: standardized loadings (estimate, SE, 95% CI, P and FDR) of each disorder on the influenza-specific factor F_Is, with pathway classification
+outcome	rhs	est	se	p	FDR	lo	hi	path	label	ypos	beta_txt
+TOB	F_Is	0.5443	0.099	0.0000000386	0.0000005018	0.35026	0.73834	Dual-pathway	Tobacco use disorder	1	+0.544 (0.099)*
+ALC	F_Is	0.3879	0.0993	0.0000942	0.000585	0.193272	0.582528	Dual-pathway	Alcohol dependence	2	+0.388 (0.099)*
+OPI	F_Is	0.2517	0.0659	0.000135	0.000585	0.122536	0.380864	Dual-pathway	Opiate dependence	3	+0.252 (0.066)*
+ADHD	F_Is	0.1282	0.0594	0.0308	0.0667333333333333	0.011776	0.244624	Single-pathway	Attention-deficit/hyperactivity disorder	4	+0.128 (0.059)
+AD	F_Is	0.1043	0.0639	0.103	0.167375	-0.020944	0.229544	Single-pathway	Alzheimer's disease	5	+0.104 (0.064)
+TS	F_Is	-0.0136	0.0846	0.872	0.872	-0.179416	0.152216	Single-pathway	Tourette syndrome	6	-0.014 (0.085)
+SUI	F_Is	-0.02	0.0672	0.766	0.829833333333333	-0.151712	0.111712	Single-pathway	Suicide attempt	7	-0.020 (0.067)
+OCD	F_Is	-0.0436	0.0994	0.661	0.781181818181818	-0.238424	0.151224	Single-pathway	Obsessive-compulsive disorder	8	-0.044 (0.099)
+BIP	F_Is	-0.0692	0.0477	0.147	0.212333333333333	-0.162692	0.024292	Single-pathway	Bipolar disorder	9	-0.069 (0.048)
+SCZ	F_Is	-0.0733	0.042	0.0812	0.1508	-0.15562	0.00902	Single-pathway	Schizophrenia	10	-0.073 (0.042)
+PD	F_Is	-0.0793	0.0797	0.319	0.4147	-0.235512	0.076912	Single-pathway	Parkinson's disease	11	-0.079 (0.080)
+AN	F_Is	-0.1537	0.0604	0.011	0.0286	-0.272084	-0.035316	Opposite pathway	Anorexia nervosa	12	-0.154 (0.060)*
+ASD	F_Is	-0.2522	0.0816	0.00201	0.0065325	-0.412136	-0.092264	Opposite pathway	Autism spectrum disorder	13	-0.252 (0.082)*

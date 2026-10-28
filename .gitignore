@@ -1,0 +1,18 @@
+# Project-specific exclusions (not for GitHub release)
+.mine/
+Results/
+results/
+results.temp/
+Scripts/logs/
+Manuscripts/
+configs.md
+GWAS.infos.xlsx
+
+# Office lock files
+~$*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
